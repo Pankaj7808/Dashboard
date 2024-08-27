@@ -1,0 +1,80 @@
+{
+  "Marketing Dashboard": {
+    "Social Media Performance": {
+      "LinkedIn Posts": 150,
+      "Twitter Engagements": 220,
+      "Instagram Stories": 180
+    },
+    "Ad Campaign Metrics": {
+      "Google Ads Clicks": 1200,
+      "Facebook Ads Impressions": 4500,
+      "YouTube Ad Views": 3200
+    },
+    "Email Marketing": {
+      "Campaigns Sent": 50,
+      "Open Rate (%)": 45,
+      "Click-Through Rate (%)": 7.8
+    },
+    "SEO Performance": {
+      "Organic Traffic": 9200,
+      "Backlinks Acquired": 350
+    },
+    "Content Marketing": {
+      "Blog Posts Published": 25,
+      "Video Content Created": 12
+    }
+  },
+
+  "Sales Dashboard": {
+    "Monthly Sales": {
+      "January Sales ($)": 45000,
+      "February Sales ($)": 52000,
+      "March Sales ($)": 61000
+    },
+    "Quarterly Targets": {
+      "Q1 Target (%)": 75,
+      "Q3 Target (%)": 60
+    },
+    "Lead Generation": {
+      "New Leads": 320,
+      "Qualified Leads": 180,
+      "Conversion Rate (%)": 15.5
+    },
+    "Revenue Sources": {
+      "Product Sales ($)": 87000,
+      "Service Sales ($)": 42000,
+      "Subscription Revenue ($)": 31000
+    },
+    "Customer Satisfaction": {
+      "CSAT Score": 85,
+      "NPS Score": 75,
+      "Feedback Received": 120
+    }
+  },
+
+  "Finance Dashboard": {
+    "Expense Tracking": {
+      "Office Supplies ($)": 2000,
+      "Travel Expenses ($)": 3500,
+      "Utilities ($)": 1800
+    },
+    "Income Overview": {
+      "Total Income ($)": 150000,
+      "Net Profit ($)": 67000,
+      "Gross Margin (%)": 45
+    },
+    "Accounts Payable": {
+      "Outstanding Invoices": 5,
+      "Total Due ($)": 12000
+    },
+    "Investment Performance": {
+      "Bonds": 30000,
+      "Real Estate": 50000
+    },
+    "Tax Liabilities": {
+      "Federal Tax ($)": 15000,
+      "State Tax ($)": 8000,
+      "Local Tax ($)": 2000
+    }
+  }
+}
